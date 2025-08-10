@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DZ1shetty"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=33B1FF&center=true&vCenter=true&width=350&lines=Hi+I'm+Dhanush+G+Shetty;Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
+  <a href="https://github.com/DZ1shetty"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&pause=1000&color=33B1FF&center=true&vCenter=true&width=350&lines=Hi+I'm+Dhanush+G+Shetty;  Welcome+to+my+GitHub+profile!" alt="Typing SVG" /></a>
 </p>
 
 ---
