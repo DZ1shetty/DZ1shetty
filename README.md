@@ -4,15 +4,16 @@
   </a>
 </p>
 
+<!-- Uniformly arranged badges -->
 <p align="center">
   <a href="https://github.com/DZ1shetty">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:dhanushgshetty666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhanushgshetty666@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&label=dhanushgshetty666@gmail.com">
   </a>
   <a href="https://www.instagram.com/dhanu_shetty1105/">
-    <img src="https://img.shields.io/badge/Instagram-dhanu__shetty1105-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=dhanu_shetty1105">
   </a>
 </p>
 
