@@ -4,6 +4,16 @@
   </a>
 </p>
 
+<p align="center" style="font-size:1.3em; color:#54FFFD;">
+  <b>I am Dhanush G Shetty</b>
+</p>
+
+<p align="center">
+  Passionate engineering student, programmer and lifelong learner.<br>
+  I love building cool projects, exploring new technologies, and collaborating with fellow developers.<br>
+  Let's connect and grow together!
+</p>
+
 ---
 
 <h2 align="center">💡 About Me</h2>
