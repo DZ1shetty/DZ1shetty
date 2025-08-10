@@ -18,10 +18,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animatedHeader.gif" width="100%" />
-</p>
-
 <h2 align="center">⚡️ GitHub Stats & Activity</h2>
 
 <p align="center">
@@ -41,8 +37,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+<h2 align="center">😂 Meme zone!</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animatedHeader.gif" width="100%" />
+  <img src="https://i.imgflip.com/7tfe06.jpg" alt="Programming Meme" width="500"/>
+  <br>
+  <i>Because every great README needs a meme! 😄</i>
 </p>
 
 ---
