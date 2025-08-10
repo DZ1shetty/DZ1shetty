@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DZ1shetty">
     <!-- Animated metallic gradient SVG using readme-typing-svg -->
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=2000&color=ECECEC,F7B731,FFFFFF,A5A5A5&background=00000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Dhanush+G+Shetty;Shining+Bright+in+Code+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=2000&color=CED0CE,F7B731,FFFFFF,A5A5A5,FFD700,AAA9AD,8A8A8A&background=00000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Dhanush+G+Shetty;Observe|Learn|Act" alt="Typing SVG" />
   </a>
 </p>
 
