@@ -1,13 +1,10 @@
 <!--
-Year 2025 Futuristic Animated GitHub Profile
-Perfect alignment, metallic gradients, and animated widgets.
-All features are visually modern and humanly incomprehensible!
+2025 Futuristic GitHub Profile: Flawless alignment, working animations, and modern badges.
 -->
 
 <p align="center">
   <a href="https://github.com/DZ1shetty">
-    <!-- Futuristic metallic SVG with extra-wide gaps and gradient animation -->
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&pause=2000&color=00FFF0,FFD700,00FFFF,FFFFFF,AAA9AD,8A8A8A,54FFFD,FF00CC&background=00000000&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile!;I+am+Dhanush+G+Shetty;Observe+++++++|+++++++Learn+++++++|+++++++Act" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&pause=2000&color=00FFF0,FFD700,00FFFF,FFFFFF,AAA9AD,8A8A8A,54FFFD,FF00CC&background=00000000&center=true&vCenter=true&width=900&lines=I+am+Dhanush+G+Shetty;Observe+++++++|+++++++Learn+++++++|+++++++Act" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,8 +39,15 @@ All features are visually modern and humanly incomprehensible!
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=header&text=GitHub%20Stats%20%26%20Activity&fontSize=40&fontAlignY=35&color=00FFF0&desc=Explore+My+Coding+Journey+in+the+Year+2025!&descAlignY=65&descAlign=50&animation=twinkling" alt="Animated Header" />
+  <!-- Modern animated badges -->
+  <img src="https://img.shields.io/badge/Year-2025-00FFF0?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Coding%20Level-Quantum%20%F0%9F%A4%96-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Motto-Observe%20%7C%20Learn%20%7C%20Act-54FFFD?style=for-the-badge" />
 </p>
+
+---
+
+<h2 align="center">📊 <span style="color:#FFD700;">GitHub Stats & Activity</span> 📊</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DZ1shetty&theme=github_dark_dimmed" alt="Profile Details" />
@@ -66,22 +70,9 @@ All features are visually modern and humanly incomprehensible!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=FFD700&animation=twinkling&fontSize=30&text=Thanks+for+Visiting!+Have+a+great+day!+🚀&fontAlignY=45" alt="Animated Footer" />
-</p>
-
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80" /> 
-  <b style="font-size:1.6em; color:#00FFF0; text-shadow: 0 0 15px #FFD700, 0 0 25px #ECECEC;">
-    <span style="font-weight:900; color:#FFD700;">Observe</span>
-    <span style="font-weight:900; color:#00FFF0;">|</span>
-    <span style="font-weight:900; color:#ECECEC;">Learn</span>
-    <span style="font-weight:900; color:#00FFF0;">|</span>
-    <span style="font-weight:900; color:#F7B731;">Act</span>
-    <br>
-    <span style="font-size:1em;color:#FFD700;">Welcome to the next dimension of coding.</span>
-  </b>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="80" />
+  <!-- Subtle animated footer using SVG capsule -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=FFD700&animation=twinkling&fontSize=30&text=Thanks+for+Visiting!+Have+a+great+day!+🚀&fontAlignY=45" alt="Animated Footer" />
 </p>
