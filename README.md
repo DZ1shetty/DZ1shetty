@@ -1,17 +1,7 @@
 <p align="center">
   <a href="https://github.com/DZ1shetty">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&pause=2000&color=54FFFD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&pause=2000&color=54FFFD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Dhanush+G+Shetty" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center" style="font-size:1.3em; color:#54FFFD;">
-  <b>I am Dhanush G Shetty</b>
-</p>
-
-<p align="center">
-  Passionate engineering student, programmer and lifelong learner.<br>
-  I love building cool projects, exploring new technologies, and collaborating with fellow developers.<br>
-  Let's connect and grow together!
 </p>
 
 ---
