@@ -18,12 +18,31 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animatedHeader.gif" width="100%" />
+</p>
+
+<h2 align="center">⚡️ GitHub Stats & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DZ1shetty&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=radical&hide_title=true&count_private=true&custom_title=GitHub+Stats" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DZ1shetty&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=radical&row=1&column=7&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animatedHeader.gif" width="100%" />
 </p>
 
 ---
