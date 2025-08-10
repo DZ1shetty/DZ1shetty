@@ -28,11 +28,13 @@ Fluid Layout | Minimalist Futurism | Elegant Section Motion
       <td>
         <h2 style="color:#6EE7B7;font-family:Montserrat;">About Me</h2>
         <ul>
-          <li>🧑‍🎓 <b>Student @ NMAMIT</b></li>
-          <li>💻 <b>Stack:</b> Python · Java · React · C · JS</li>
+          <li>🧑‍🎓 <b>Dhanush G Shetty</b></li>
+          <li>🏫 <b>3rd Year Engineering Student</b> @ NMAM Institute of Technology</li>
+          <li>💻 <b>Programming Languages:</b> Python · Java · C · React · JavaScript</li>
           <li>📧 <b>Email:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
-          <li>🌐 <b>Links:</b> <a href="https://github.com/DZ1shetty">GitHub</a> | <a href="https://instagram.com/dhanu_shetty1105">Instagram</a></li>
-          <li>🌊 <b>Philosophy:</b> Code is water—fluid, adaptive, creative.</li>
+          <li>🌐 <b>Connect:</b> <a href="https://github.com/DZ1shetty" target="_blank">GitHub</a> | <a href="https://instagram.com/dhanu_shetty1105" target="_blank">Instagram</a></li>
+          <li>🌊 <b>Motto:</b> <i>Observe, Learn, Act 🚀</i></li>
+          <li>🎯 <b>Interests:</b> AI, Automation, UI/UX, Open Source, Learning New Tech</li>
         </ul>
       </td>
     </tr>
@@ -71,7 +73,7 @@ Fluid Layout | Minimalist Futurism | Elegant Section Motion
   <blockquote style="border-left: 4px solid #3B82F6; padding-left: 16px; font-style: italic; color: #6EE7B7;">
     “The best code is like water—finding its own way, shaping itself to every challenge.”
     <br>
-    <span style="font-weight:bold;color:#F59E42;">- DZ1shetty</span>
+    <span style="font-weight:bold;color:#F59E42;">- DZ1shetty (Dhanush G Shetty)</span>
   </blockquote>
 </div>
 
