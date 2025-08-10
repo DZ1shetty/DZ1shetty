@@ -47,9 +47,10 @@
 
 ---
 
-<h2 align="center">👀 Visitor Count</h2>
+<h2 align="center">👁️ Visitor Count</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Visitor%20Counter-Active-brightgreen?style=for-the-badge" alt="Visitor Counter Badge" /><br>
   <img src="https://profile-counter.glitch.me/DZ1shetty/count.svg" alt="Visitor Count" />
 </p>
 
