@@ -1,7 +1,4 @@
-<!-- Remove badges row as requested, keep neat layout and info -->
-
 <p align="center">
-  <!-- NeoWave SVG: Futuristic metallic animated header -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=ECECEC,F7B731,00FFFF,FFD700,FFFFFF,A5A5A5,00FFAB,AAA9AD,8A8A8A&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;I+Am+Dhanush+G+Shetty;Observe+++|+++Learn+++|+++Act" alt="Metallic Animated Header" />
 </p>
 
@@ -28,9 +25,51 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=80&section=header&animation=twinkling" alt="Section Ripple" />
-</p>
+## 🚀 Featured Projects Gallery
+
+<div align="center">
+  
+  <!-- Example Project Card 1 -->
+  <a href="https://github.com/DZ1shetty/Project1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=Project1&theme=radical" alt="Project1" />
+  </a>
+  <!-- Example Project Card 2 -->
+  <a href="https://github.com/DZ1shetty/Project2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=Project2&theme=radical" alt="Project2" />
+  </a>
+  <!-- Example Project Card 3 -->
+  <a href="https://github.com/DZ1shetty/Project3" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=Project3&theme=radical" alt="Project3" />
+  </a>
+  <!-- Add or replace with your real repos! -->
+</div>
+
+---
+
+## 🕓 Personal Timeline / Roadmap
+
+```markdown
+- 2022 🎓 Started Engineering @ NMAMIT
+- 2023 💻 Learned Python, Java, C, React, and JavaScript
+- 2024 🚀 Built first major projects, contributed to open source
+- 2025 🧠 Exploring AI, Automation, UI/UX and advanced web apps
+- Next 📈 Goals:
+  - [ ] Build a full-stack AI-powered app
+  - [ ] Collaborate with global open source teams
+  - [ ] Start a tech blog / YouTube channel
+  - [ ] Internship at a top tech company
+  - [ ] Graduate and launch my own startup!
+```
+
+---
+
+## 📊 Dynamic Metrics Widget
+
+<div align="center">
+  <!-- GitHub Metrics: https://github.com/lowlighter/metrics -->
+  <img src="https://github.com/DZ1shetty/DZ1shetty/blob/main/github-metrics.svg" alt="Metrics" />
+  <!-- To enable: set up metrics workflow, see guide at https://github.com/lowlighter/metrics -->
+</div>
 
 ---
 
