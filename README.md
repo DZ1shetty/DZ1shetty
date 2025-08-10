@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/DZ1shetty">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&pause=2000&color=54FFFD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Dhanush+G+Shetty" alt="Typing SVG" />
+    <!-- Animated metallic gradient SVG using readme-typing-svg -->
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=2000&color=ECECEC,F7B731,FFFFFF,A5A5A5&background=00000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I+am+Dhanush+G+Shetty;Shining+Bright+in+Code+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,10 +18,6 @@
 </ul>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animatedHeader.gif" width="100%" />
-</p>
 
 <h2 align="center">⚡️ GitHub Stats & Activity</h2>
 
@@ -41,14 +38,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+<h2 align="center">😂 Meme zone!</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/animatedHeader.gif" width="100%" />
+  <img src="https://i.imgflip.com/7tfe06.jpg" alt="Programming Meme" width="500"/>
+  <br>
+  <i>Because every great README needs a meme! 😄</i>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="70" /> 
-  <b style="font-size:1.2em; color:#54FFFD;">Thanks for Visiting! Have a great day! 🚀</b>
+  <b style="font-size:1.2em; color:#F7B731; text-shadow: 0 0 5px #ECECEC, 0 0 10px #A5A5A5;">Thanks for Visiting! Have a great day! 🚀</b>
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="70" />
 </p>
