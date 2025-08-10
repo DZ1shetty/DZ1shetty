@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DZ1shetty">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&pause=1500&color=00EFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;I'm+Dhanush+G+Shetty+%F0%9F%91%8B;Engineering+Student+%7C+Programmer+%7C+Learner;Observe+%7C+Learn+%7C+Act+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&pause=2000&color=54FFFD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Dhanush+G+Shetty+%F0%9F%91%8B;Engineering+Student+%7C+Programmer+%7C+Learner;Observe+%7C+Learn+%7C+Act+%F0%9F%92%A1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="mailto:dhanushgshetty666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhanushgshetty666@gmail.com-blue?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-dhanushgshetty666@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.instagram.com/dhanu_shetty1105/">
     <img src="https://img.shields.io/badge/Instagram-dhanu__shetty1105-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -26,13 +26,13 @@
 <h2 align="center">💡 About Me</h2>
 
 <p align="center">
-  <b>👨‍🎓 3rd Year Engineering Student</b><br>
-  <b>💻 Programming:</b> <span style="color:#00EFFF;">C, Python, Java, React, JavaScript</span><br>
-  <b>📬 Contact:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a><br>
-  <b>🌐 Social:</b>
-  <a href="https://www.instagram.com/dhanu_shetty1105/">Instagram</a> |
-  <a href="https://github.com/DZ1shetty">GitHub</a><br>
-  <b>✨ Motto:</b> <i>Observe, Learn, Act</i> 🚀🔥
+  <ul>
+    <li><b>👨‍🎓 3rd Year Engineering Student</b></li>
+    <li><b>💻 Programming:</b> <span style="color:#00EFFF;">C, Python, Java, React, JavaScript</span></li>
+    <li><b>📬 Contact:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
+    <li><b>🌐 Social:</b> <a href="https://www.instagram.com/dhanu_shetty1105/">Instagram</a> | <a href="https://github.com/DZ1shetty">GitHub</a></li>
+    <li><b>✨ Motto:</b> <i>Observe, Learn, Act</i> 🚀🔥</li>
+  </ul>
 </p>
 
 ---
@@ -47,6 +47,8 @@
 
 ---
 
+<h2 align="center">👀 Visitor Count</h2>
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/DZ1shetty/count.svg" alt="Visitor Count" />
 </p>
@@ -55,6 +57,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="70" /> 
-  <b>Thanks for Visiting! Have a great day! 🚀</b>
+  <b style="font-size:1.2em; color:#54FFFD;">Thanks for Visiting! Have a great day! 🚀</b>
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="70" />
 </p>
