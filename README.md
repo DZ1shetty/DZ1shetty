@@ -28,27 +28,23 @@
 ## 🚀 Featured Projects Gallery
 
 <div align="center">
-  
-  <!-- Example Project Card 1 -->
-  <a href="https://github.com/DZ1shetty/Project1" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=Project1&theme=radical" alt="Project1" />
+  <!-- Replace 'portfolio-website', 'machine-learning-tutorials', 'react-dashboard' with your actual repo names -->
+  <a href="https://github.com/DZ1shetty/portfolio-website" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=portfolio-website&theme=radical" alt="portfolio-website" />
   </a>
-  <!-- Example Project Card 2 -->
-  <a href="https://github.com/DZ1shetty/Project2" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=Project2&theme=radical" alt="Project2" />
+  <a href="https://github.com/DZ1shetty/machine-learning-tutorials" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=machine-learning-tutorials&theme=radical" alt="machine-learning-tutorials" />
   </a>
-  <!-- Example Project Card 3 -->
-  <a href="https://github.com/DZ1shetty/Project3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=Project3&theme=radical" alt="Project3" />
+  <a href="https://github.com/DZ1shetty/react-dashboard" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DZ1shetty&repo=react-dashboard&theme=radical" alt="react-dashboard" />
   </a>
-  <!-- Add or replace with your real repos! -->
+  <!-- Add/remove cards as needed, using your real repo names -->
 </div>
 
 ---
 
 ## 🕓 Personal Timeline / Roadmap
 
-```markdown
 - 2022 🎓 Started Engineering @ NMAMIT
 - 2023 💻 Learned Python, Java, C, React, and JavaScript
 - 2024 🚀 Built first major projects, contributed to open source
@@ -59,7 +55,6 @@
   - [ ] Start a tech blog / YouTube channel
   - [ ] Internship at a top tech company
   - [ ] Graduate and launch my own startup!
-```
 
 ---
 
@@ -67,7 +62,7 @@
 
 <div align="center">
   <!-- GitHub Metrics: https://github.com/lowlighter/metrics -->
-  <img src="https://github.com/DZ1shetty/DZ1shetty/blob/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github.com/DZ1shetty/DZ1shetty/blob/main/github-metrics.svg" alt="GitHub Metrics" />
   <!-- To enable: set up metrics workflow, see guide at https://github.com/lowlighter/metrics -->
 </div>
 
