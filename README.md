@@ -1,18 +1,9 @@
-<!-- Highlighted blockquote and blue banner removed as per request -->
+<!-- Remove badges row as requested, keep neat layout and info -->
 
 <p align="center">
   <!-- NeoWave SVG: Futuristic metallic animated header -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=ECECEC,F7B731,00FFFF,FFD700,FFFFFF,A5A5A5,00FFAB,AAA9AD,8A8A8A&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;I+Am+Dhanush+G+Shetty;Observe+++|+++Learn+++|+++Act" alt="Metallic Animated Header" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Flowing-00FFFF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Tech-Metallic%20Stack-F7B731?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Year-2025-FFD700?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=DZ1shetty&label=Visitors&color=00FFAB&style=for-the-badge" />
-</div>
 
 ---
 
