@@ -1,74 +1,83 @@
 <!--
-DZ1shetty - Immersive Motion README (2025)
-Features: Animated sections, motion cues, smooth transitions, next-gen layout
+DZ1shetty - NeoWave README
+Fluid Layout | Minimalist Futurism | Elegant Section Motion
+2025 Edition
 -->
 
 <p align="center">
-  <!-- Kinetic SVG Header: Text flows in from left to right, simulating motion -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=3000&pause=500&color=00FFF0,FFD700,00FFFF,54FFFD,FF00CC&background=00000000&center=true&vCenter=true&width=1100&lines=🌊+Motion+in+Code+%7C+DZ1shetty+🌊;Observe+%E2%8F%AA+Learn+%E2%8F%AA+Act" alt="Animated Motion SVG" />
+  <!-- NeoWave SVG: Futuristic animated header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=44&pause=1800&color=6EE7B7,3B82F6,F59E42,8B5CF6,EC4899&background=00000000&center=true&vCenter=true&width=900&lines=NEOWAVE+PROFILE;DZ1shetty+%7C+Code+Flows+Like+Water;Minimal+Futurism+2025" alt="NeoWave Animated Header" />
 </p>
 
 ---
 
-<p align="center">
-  <!-- Animated wave divider (motion cue) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=00FFF0&animation=twinkling&section=header" alt="Wave Divider" />
-</p>
-
 <div align="center">
-  <!-- Floating badges (simulate movement via color/gradient) -->
-  <img src="https://img.shields.io/badge/-Immersive%20Profile-FFD700?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Motion%20Enabled-00FFF0?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-Always%20In%20Flow-FF00CC?style=for-the-badge" />
+  <!-- Soft glassy badges for a fresh feel -->
+  <img src="https://img.shields.io/badge/Status-Flowing-3B82F6?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tech-Minimalist%20Stack-6EE7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-2025-F59E42?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DZ1shetty&label=Visitors&color=8B5CF6&style=for-the-badge" />
 </div>
 
 ---
 
-<h2 align="center">💡 <span style="color:#00FFF0;font-family:Orbitron;">Dynamic About Me</span> 💡</h2>
-
-<div align="center">
-  <!-- Animated About Card: Glow effect for motion -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=radical&hide_title=false&title_color=FFD700&icon_color=00FFF0&custom_title=💡+About+Me+💡&count_private=true" alt="About Stats" />
-  
-  <br>
-  <ul>
-    <li>🧑‍🎓 <b>3rd Year Engineering Student</b></li>
-    <li>💻 <b>Languages:</b> <span style="color:#FFD700;">C</span>, <span style="color:#00FFF0;">Python</span>, <span style="color:#FF00CC;">Java</span>, <span style="color:#54FFFD;">React</span>, JavaScript</li>
-    <li>📬 <b>Contact:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
-    <li>🌐 <b>Connect:</b> <a href="https://www.instagram.com/dhanu_shetty1105/">Instagram</a> | <a href="https://github.com/DZ1shetty">GitHub</a></li>
-    <li>✨ <b>Mantra:</b> <span style="color:#00FFF0;font-weight:700;">Observe</span> <span style="color:#FFD700;font-weight:700;">⏪</span> <span style="color:#A5A5A5;font-weight:700;">Learn</span> <span style="color:#FFD700;font-weight:700;">⏩</span> <span style="color:#F7B731;font-weight:700;">Act</span> 🚀</li>
-  </ul>
+<div align="center" style="margin: 32px 0;">
+  <!-- NeoGlass About Block -->
+  <table>
+    <tr>
+      <td>
+        <h2 style="color:#6EE7B7;font-family:Montserrat;">About Me</h2>
+        <ul>
+          <li>🧑‍🎓 <b>Student @ NMAMIT</b></li>
+          <li>💻 <b>Stack:</b> Python · Java · React · C · JS</li>
+          <li>📧 <b>Email:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
+          <li>🌐 <b>Links:</b> <a href="https://github.com/DZ1shetty">GitHub</a> | <a href="https://instagram.com/dhanu_shetty1105">Instagram</a></li>
+          <li>🌊 <b>Philosophy:</b> Code is water—fluid, adaptive, creative.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 <p align="center">
-  <!-- Animated wave divider (motion cue) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=FF00CC&animation=twinkling&section=header" alt="Wave Divider" />
-</p>
-
-<details open>
-  <summary><h2 align="center">🚦 Motion Projects & Activity</h2></summary>
-  <div align="center">
-    <!-- Animated graph and trophy sections -->
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DZ1shetty&theme=react-dark" alt="Activity Graph" />
-    <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=discord&row=1&column=7&no-frame=true&margin-w=5&margin-h=5" alt="Trophies" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
-  </div>
-</details>
-
----
-
-<p align="center">
-  <!-- Animated footer wave (motion cue) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=110&section=footer&color=FFD700&animation=twinkling&fontSize=28&text=Code+Never+Stops+Moving+%7C+Thanks+for+Visiting!+🚀&fontAlignY=40" alt="Animated Footer Wave" />
+  <!-- Animated ripple for section motion -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=6EE7B7&height=80&section=header&animation=twinkling" alt="Section Ripple" />
 </p>
 
 ---
 
+<h2 align="center" style="color:#3B82F6;font-family:Montserrat;">Projects & Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=gruvbox&hide_title=false&count_private=true&custom_title=Code+Flow+Stats" alt="Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DZ1shetty&theme=github-compact" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=gruvbox&row=1&column=7&margin-w=5&margin-h=5" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=gruvbox" alt="Top Languages" />
+</div>
+
+---
+
 <p align="center">
-  <!-- Subtle animated GIF for smoothness -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="140" />
-  <br>
-  <b style="font-size:1.3em;color:#00FFF0;text-shadow:0 0 15px #FFD700;">Feel the motion. Code the future.</b>
+  <!-- Floating NeoWave Tech Stack -->
+  <img src="https://skillicons.dev/icons?i=python,java,react,js,c,github,linux,figma" />
+</p>
+
+---
+
+<div align="center">
+  <!-- NeoQuote block for inspiration -->
+  <blockquote style="border-left: 4px solid #3B82F6; padding-left: 16px; font-style: italic; color: #6EE7B7;">
+    “The best code is like water—finding its own way, shaping itself to every challenge.”
+    <br>
+    <span style="font-weight:bold;color:#F59E42;">- DZ1shetty</span>
+  </blockquote>
+</div>
+
+---
+
+<p align="center">
+  <!-- Final animated wave, smooth motion outro -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F59E42&height=90&section=footer&animation=twinkling&fontSize=28&text=Stay+Fluid%2C+Stay+Creative+%7C+Contact+Anytime+🌊&fontAlignY=40" alt="Outro Wave" />
 </p>
