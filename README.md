@@ -4,19 +4,6 @@
   </a>
 </p>
 
-<!-- Uniformly arranged badges -->
-<p align="center">
-  <a href="https://github.com/DZ1shetty">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="mailto:dhanushgshetty666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white&label=dhanushgshetty666@gmail.com">
-  </a>
-  <a href="https://www.instagram.com/dhanu_shetty1105/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=dhanu_shetty1105">
-  </a>
-</p>
-
 ---
 
 <h2 align="center">💡 About Me</h2>
@@ -37,15 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DZ1shetty&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<h2 align="center">👁️ Visitor Count</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitor%20Counter-Active-brightgreen?style=for-the-badge" alt="Visitor Counter Badge" /><br>
-  <img src="https://profile-counter.glitch.me/DZ1shetty/count.svg" alt="Visitor Count" />
 </p>
 
 ---
