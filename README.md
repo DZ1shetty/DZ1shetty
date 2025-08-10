@@ -19,10 +19,16 @@
 
 ---
 
-<h2 align="center">⚡️ GitHub Stats & Activity</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=GitHub%20Stats%20&%20Activity&fontSize=35&fontAlignY=35&color=ECECEC&desc=Explore%20My%20Coding%20Journey!&descAlignY=65&descAlign=50&animation=blink" alt="Animated Header" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DZ1shetty&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DZ1shetty&theme=rogue" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -31,21 +37,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=radical&row=1&column=7&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=onestar&row=1&column=7&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-<h2 align="center">😂 Meme zone!</h2>
-
 <p align="center">
-  <img src="https://i.imgflip.com/7tfe06.jpg" alt="Programming Meme" width="500"/>
-  <br>
-  <i>Because every great README needs a meme! 😄</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FFD700" alt="Animated Footer" />
 </p>
 
 ---
