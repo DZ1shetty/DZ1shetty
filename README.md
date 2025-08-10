@@ -1,22 +1,16 @@
-<!--
-DZ1shetty - NeoWave README
-Fluid Layout | Minimalist Futurism | Elegant Section Motion
-2025 Edition
--->
-
 <p align="center">
-  <!-- NeoWave SVG: Futuristic animated header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=44&pause=1800&color=6EE7B7,3B82F6,F59E42,8B5CF6,EC4899&background=00000000&center=true&vCenter=true&width=900&lines=NEOWAVE+PROFILE;DZ1shetty+%7C+Code+Flows+Like+Water;Minimal+Futurism+2025" alt="NeoWave Animated Header" />
+  <!-- NeoWave SVG: Futuristic metallic animated header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=ECECEC,F7B731,00FFFF,FFD700,FFFFFF,A5A5A5,00FFAB,AAA9AD,8A8A8A&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;I+Am+Dhanush+G+Shetty;Observe+++|+++Learn+++|+++Act" alt="Metallic Animated Header" />
 </p>
 
 ---
 
 <div align="center">
-  <!-- Soft glassy badges for a fresh feel -->
-  <img src="https://img.shields.io/badge/Status-Flowing-3B82F6?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Tech-Minimalist%20Stack-6EE7B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Year-2025-F59E42?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=DZ1shetty&label=Visitors&color=8B5CF6&style=for-the-badge" />
+  <!-- Metallic glassy badges for futuristic style -->
+  <img src="https://img.shields.io/badge/Status-Flowing-00FFFF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Tech-Metallic%20Stack-F7B731?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-2025-FFD700?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DZ1shetty&label=Visitors&color=00FFAB&style=for-the-badge" />
 </div>
 
 ---
@@ -26,7 +20,7 @@ Fluid Layout | Minimalist Futurism | Elegant Section Motion
   <table>
     <tr>
       <td>
-        <h2 style="color:#6EE7B7;font-family:Montserrat;">About Me</h2>
+        <h2 style="color:#00FFFF;font-family:Orbitron;">About Me</h2>
         <ul>
           <li>🧑‍🎓 <b>Dhanush G Shetty</b></li>
           <li>🏫 <b>3rd Year Engineering Student</b> @ NMAM Institute of Technology</li>
@@ -44,25 +38,25 @@ Fluid Layout | Minimalist Futurism | Elegant Section Motion
 ---
 
 <p align="center">
-  <!-- Animated ripple for section motion -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=6EE7B7&height=80&section=header&animation=twinkling" alt="Section Ripple" />
+  <!-- Animated metallic ripple for section motion -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00FFFF&height=80&section=header&animation=twinkling" alt="Section Ripple" />
 </p>
 
 ---
 
-<h2 align="center" style="color:#3B82F6;font-family:Montserrat;">Projects & Stats</h2>
+<h2 align="center" style="color:#FFD700;font-family:Orbitron;">Projects & Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=gruvbox&hide_title=false&count_private=true&custom_title=Code+Flow+Stats" alt="Stats" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DZ1shetty&theme=github-compact" alt="Activity Graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=gruvbox&row=1&column=7&margin-w=5&margin-h=5" alt="Trophies" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=radical&hide_title=false&count_private=true&custom_title=Code+Flow+Stats" alt="Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DZ1shetty&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DZ1shetty&theme=discord&row=1&column=7&margin-w=5&margin-h=5" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 <p align="center">
-  <!-- Floating NeoWave Tech Stack -->
+  <!-- Floating Tech Stack, metallic style -->
   <img src="https://skillicons.dev/icons?i=python,java,react,js,c,github,linux,figma" />
 </p>
 
@@ -70,16 +64,16 @@ Fluid Layout | Minimalist Futurism | Elegant Section Motion
 
 <div align="center">
   <!-- NeoQuote block for inspiration -->
-  <blockquote style="border-left: 4px solid #3B82F6; padding-left: 16px; font-style: italic; color: #6EE7B7;">
-    “The best code is like water—finding its own way, shaping itself to every challenge.”
+  <blockquote style="border-left: 4px solid #FFD700; padding-left: 16px; font-style: italic; color: #00FFFF;">
+    “The best code is like metal—strong, adaptable, and always shining no matter the challenge.”
     <br>
-    <span style="font-weight:bold;color:#F59E42;">- DZ1shetty (Dhanush G Shetty)</span>
+    <span style="font-weight:bold;color:#F7B731;">- DZ1shetty (Dhanush G Shetty)</span>
   </blockquote>
 </div>
 
 ---
 
 <p align="center">
-  <!-- Final animated wave, smooth motion outro -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=F59E42&height=90&section=footer&animation=twinkling&fontSize=28&text=Stay+Fluid%2C+Stay+Creative+%7C+Contact+Anytime+🌊&fontAlignY=40" alt="Outro Wave" />
+  <!-- Final animated wave, smooth motion outro metallic style -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFD700&height=90&section=footer&animation=twinkling&fontSize=28&text=Stay+Metallic%2C+Stay+Innovative+%7C+Contact+Anytime+🚀&fontAlignY=40" alt="Outro Wave" />
 </p>
