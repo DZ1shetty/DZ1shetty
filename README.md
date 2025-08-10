@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DZ1shetty">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&pause=2000&color=54FFFD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Dhanush+G+Shetty+%F0%9F%91%8B;Observe+%7C+Learn+%7C+Act+%F0%9F%92%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=38&pause=2000&color=54FFFD&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,22 +18,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/3rd%20Year%20Engineering%20Student-00EFFF?style=flat-square&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programming-C%20%7C%20Python%20%7C%20Java%20%7C%20React%20%7C%20JavaScript-yellow?style=flat-square" />
-</p>
-
 <h2 align="center">💡 About Me</h2>
 
-<p align="center">
-  <ul>
-    <li><b>👨‍🎓 3rd Year Engineering Student</b></li>
-    <li><b>💻 Programming:</b> <span style="color:#00EFFF;">C, Python, Java, React, JavaScript</span></li>
-    <li><b>📬 Contact:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
-    <li><b>🌐 Social:</b> <a href="https://www.instagram.com/dhanu_shetty1105/">Instagram</a> | <a href="https://github.com/DZ1shetty">GitHub</a></li>
-    <li><b>✨ Motto:</b> <i>Observe, Learn, Act</i> 🚀🔥</li>
-  </ul>
-</p>
+<ul>
+  <li>🧑‍🎓 <b>3rd Year Engineering Student</b></li>
+  <li>💻 <b>Programming:</b> C, Python, Java, React, JavaScript</li>
+  <li>📬 <b>Contact:</b> <a href="mailto:dhanushgshetty666@gmail.com">dhanushgshetty666@gmail.com</a></li>
+  <li>🌐 <b>Social:</b> <a href="https://www.instagram.com/dhanu_shetty1105/">Instagram</a> | <a href="https://github.com/DZ1shetty">GitHub</a></li>
+  <li>✨ <b>Motto:</b> <i>Observe, Learn, Act</i> 🚀🔥</li>
+</ul>
 
 ---
 
