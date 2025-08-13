@@ -33,11 +33,3 @@
 <div align="center" style="margin-top: 40px; font-size: 0.9em; color: #8A8A8A;">
   🌟 Thanks for visiting! Keep coding, keep creating.
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DZ1shetty&show_icons=true&theme=dark&border_color=00FFFF&bg_color=00000000&title_color=00FFFF&text_color=FFFFFF" 
-       alt="Dhanush Stats" 
-       height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DZ1shetty&layout=compact&theme=dark&border_color=00FFFF&bg_color=00000000&title_color=00FFFF&text_color=ECECEC" 
-       alt="Top Languages" 
-       height="180" />
-</p>
