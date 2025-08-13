@@ -8,7 +8,7 @@
   <table>
     <tr>
       <td>
-        <h2 style="color:#00FFFF; font-family:Orbitron;">About Me</h2>
+        <h2 style="color:#00FFFF; font-family:Space Mono;">About Me</h2>
         <ul>
           <li>🧑‍🎓 <b>Dhanush G Shetty</b></li>
           <li>🏫 <b>3rd Year Engineering Student</b> @ NMAM Institute of Technology</li>
