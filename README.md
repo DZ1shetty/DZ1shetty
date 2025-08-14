@@ -13,7 +13,7 @@
 
 <div align="center" style="max-width: 720px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; color: #ECECEC; line-height: 1.8; padding: 0 16px;">
   <ul style="list-style: none; padding: 0; font-size: 18px;">
-    <li>🧑‍🎓 <strong>Dhanush G Shetty</strong> — 3rd Year Computer Science Engineering Student</li>
+    <li>🧑‍🎓 <strong>Dhanush G Shetty</strong> — 3rd Year Information Science Engineering Student</li>
     <li>🏫 @ <strong>NMAM Institute of Technology, Nitte</strong></li>
     <li>💻 <strong>Tech Stack:</strong> Python · Java · C · React · JavaScript · Node.js</li>
     <li>🚀 <strong>Passions:</strong> AI & Automation · UI/UX Design · Open Source</li>
