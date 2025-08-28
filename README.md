@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Metallic Shine + Typing SVG -->
-  <img src="https://raw.githubusercontent.com/DZ1shetty/assets/main/metallic-typing.svg" alt="Metallic Typing Header" />
+  <img src="https://raw.githubusercontent.com/DZ1shetty/metallic-typing.svg" alt="Metallic Typing Header" />
 </p>
 
 ---
