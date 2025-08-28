@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=1800&color=ECECEC,F7B731,00FFFF,FFD700,FFFFFF,A5A5A5,00FFAB&background=00000000&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;I'm+Dhanush+G+Shetty;Observe+++%E2%9A%99%EF%B8%8F+++Learn+++%E2%9A%99%EF%B8%8F+++Act" 
-       alt="Animated Typing Header" />
+  <!-- Metallic Shine + Typing SVG -->
+  <img src="https://raw.githubusercontent.com/DZ1shetty/assets/main/metallic-typing.svg" alt="Metallic Typing Header" />
 </p>
 
 ---
