@@ -19,7 +19,7 @@
 - 🚀 **Passions:** AI & Automation · UI/UX Design · Open Source  
 - 🌊 **Motto:** *"Observe, Learn, Act"* — Turning ideas into impact 🚀  
 - 📧 **Email:** [dhanushgshetty666@gmail.com](mailto:dhanushgshetty666@gmail.com)  
-- 🌐 **Connect:** [GitHub](https://github.com/DZ1shetty) | [Instagram](https://instagram.com/dhanu_shetty1105)  
+- 🌐 **Connect:** [Instagram](https://instagram.com/dhanu_shetty1105) | [LinkedIn](https://www.linkedin.com/in/dhanush-g-shetty-b812642b8/)
 
 ---
 
