@@ -20,7 +20,10 @@
 - 🌐 **Connect:** [Instagram](https://instagram.com/dhanu_shetty1105) | [LinkedIn](https://www.linkedin.com/in/dhanush-g-shetty-b812642b8/)
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Dhanush%20G%20Shetty-FF4B4B?style=for-the-badge" />
+</p>
+---
 <p align="center">
 ✨ Powered by curiosity and code. Thanks for visiting my profile! ✨
 </p>
