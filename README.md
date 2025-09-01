@@ -15,7 +15,6 @@
   <a href="#" title="JavaScript Ninja 🥷"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"></a> 
   <a href="#" title="Node.js Backend 🚀"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 
-- 🚀 **Passions:** <span title="Love AI & Automation 🤖">AI & Automation</span> · <span title="Design is life 🎨">UI/UX Design</span> · <span title="Open Source Contributor 🌐">Open Source</span>
 - 🌊 **Motto:** <i title="Life principle ✨">"Observe, Learn, Act"</i> — Turning ideas into impact 🚀
 - 📧 **Email:** <a href="mailto:dhanushgshetty666@gmail.com" title="Send me an email! 📧">dhanushgshetty666@gmail.com</a>
 - 🌐 **Connect:** 
