@@ -20,8 +20,6 @@
 
 ### 👨‍💻 About Me
 
-I am a **3rd Year Information Science Engineering** student at **NMAM Institute of Technology, Nitte**. My passion lies in designing scalable systems and crafting intuitive user experiences. I bridge the gap between complex backend logic and responsive frontend design.
-
 - 🔭 I’m currently working on **Advanced Web Applications**
 - 🌱 I’m currently learning **Cloud Architecture & System Design**
 - 💡 I believe in **clean code** and **pragmatic solutions**
