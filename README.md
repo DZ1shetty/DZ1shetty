@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&text=Dhanush%20G%20Shetty&fontSize=50&fontColor=ffffff&fontAlign=50" width="100%" alt="Header" />
   
-  <h3>Information Science Engineer | Full Stack Developer</h3>
   
   <p>
     <i>"Observe, Learn, Act" — Building robust solutions through continuous innovation.</i>
@@ -18,13 +17,6 @@
 
 <hr/>
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Advanced Web Applications**
-- 🌱 I’m currently learning **Cloud Architecture & System Design**
-- 💡 I believe in **clean code** and **pragmatic solutions**
-
----
 
 ### 🛠️ Technical Proficiency
 
